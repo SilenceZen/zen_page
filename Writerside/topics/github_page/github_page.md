@@ -6,4 +6,4 @@
 
 ## 配置github page
 1. 新建一个writerside项目
-2. 
+2. 测试发布
