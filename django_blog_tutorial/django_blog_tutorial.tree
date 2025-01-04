@@ -2,9 +2,11 @@
 <!DOCTYPE instance-profile
         SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
 
-<instance-profile id="django_blog_tutorial"
-                 name="Django博客教程 From 杜佬"
-                 start-page="01.前言.md">
+<instance-profile
+        id="django_blog_tutorial"
+        name="Django博客教程 (From 杜佬)"
+        start-page="01.前言.md"
+>
     <toc-element topic="01.前言.md"/>
     <toc-element topic="02.教程的开发环境.md"/>
     <toc-element topic="03.创建app.md"/>
