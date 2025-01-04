@@ -6,4 +6,5 @@
                  name="Instance Name"
                  start-page="github_page.md">
     <toc-element topic="github_page.md"/>
+    <include from="django_blog_tutorial" element-id="django_blog_tutorial" />
 </instance-profile>
