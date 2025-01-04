@@ -4,8 +4,7 @@
 
 <instance-profile id="in"
                  name="Instance Name"
-                 start-page="starter.md">
-
-    <toc-element topic="starter.md"/>
+                 start-page="github_page.md">
     <toc-element topic="github_page.md"/>
+    <toc-element topic="08.编写文章详情页面.md"/>
 </instance-profile>

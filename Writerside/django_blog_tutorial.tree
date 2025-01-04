@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="django_blog_tutorial"
+                 name="Django博客教程 From 杜佬"
+                 start-page="01.前言.md">
+    <toc-element topic="01.前言.md"/>
+    <toc-element topic="02.教程的开发环境.md"/>
+    <toc-element topic="03.创建app.md"/>
+    <toc-element topic="04.编写Model.md"/>
+    <toc-element topic="05.View视图初探.md"/>
+    <toc-element topic="06.View及Template.md"/>
+    <toc-element topic="07.使用Bootstrap改写模板.md"/>
+    <toc-element topic="08.编写文章详情页面.md"/>
+    <toc-element topic="09.使用Markdown书写文章.md"/>
+    <toc-element topic="10.发布新的文章.md"/>
+    <toc-element topic="11.删除文章.md"/>
+    <toc-element topic="12.更新文章.md"/>
+    <toc-element topic="13.用户的登录和退出.md"/>
+    <toc-element topic="14.用户的注册.md"/>
+    <toc-element topic="15.用户的删除.md"/>
+    <toc-element topic="16.重置用户密码.md"/>
+    <toc-element topic="17.拓展用户信息.md"/>
+    <toc-element topic="18.上传头像.md"/>
+    <toc-element topic="19.文章分页.md"/>
+    <toc-element topic="20.浏览量.md"/>
+    <toc-element topic="21.最热文章.md"/>
+    <toc-element topic="22.搜索文章.md"/>
+    <toc-element topic="23.文章目录.md"/>
+    <toc-element topic="24.评论.md"/>
+    <toc-element topic="25.课间休息.md"/>
+    <toc-element topic="26.基于类的视图.md"/>
+    <toc-element topic="27.文章栏目.md"/>
+    <toc-element topic="28.文章标签.md"/>
+    <toc-element topic="29.文章标题图.md"/>
+    <toc-element topic="30.富文本编辑器.md"/>
+    <toc-element topic="31.四个重要的小功能.md"/>
+    <toc-element topic="32.多级评论.md"/>
+    <toc-element topic="33.消息通知.md"/>
+    <toc-element topic="34.锚点定位.md"/>
+    <toc-element topic="35.第三方登录.md"/>
+    <toc-element topic="36.自动化测试.md"/>
+    <toc-element topic="37.日志记录.md"/>
+    <toc-element topic="38.模板过滤器和标签.md"/>
+    <toc-element topic="39.点赞功能.md"/>
+    <toc-element topic="40.将项目部署到云服务器.md"/>
+    <toc-element topic="41.期末总结.md"/>
+    <toc-element topic="42.小功能集合贴.md"/>
+    <toc-element topic="43.读者常见问题.md"/>
+</instance-profile>
