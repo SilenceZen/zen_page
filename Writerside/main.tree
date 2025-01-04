@@ -3,8 +3,8 @@
         SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
 
 <instance-profile id="main"
-                 name="Instance Name"
-                 start-page="01.前言.md">
+                  name="Instance Name"
+                  start-page="01.前言.md">
     <toc-element id="django_blog_tutorial_group" toc-title="Django博客教程 (From 杜佬)">
         <toc-element topic="01.前言.md"/>
         <toc-element topic="02.教程的开发环境.md"/>
@@ -49,6 +49,40 @@
         <toc-element topic="41.期末总结.md"/>
         <toc-element topic="42.小功能集合贴.md"/>
         <toc-element topic="43.读者常见问题.md"/>
+    </toc-element>
+    <toc-element id="django_vue_tutorial_group" toc-title="Django-vue博客教程 (From 杜佬)">
+        <toc-element topic="1-前言.md"/>
+        <toc-element topic="2-搭建开发环境.md"/>
+        <toc-element topic="3-drf初识.md"/>
+        <toc-element topic="4-序列化器与视图函数.md"/>
+        <toc-element topic="5-基于类的视图.md"/>
+        <toc-element topic="6-限制用户权限.md"/>
+        <toc-element topic="7-文章关联用户.md"/>
+        <toc-element topic="8-超链接与分页.md"/>
+        <toc-element topic="9-视图集.md"/>
+        <toc-element topic="10-过滤文章.md"/>
+        <toc-element topic="11-文章分类.md"/>
+        <toc-element topic="12-文章标签.md"/>
+        <toc-element topic="13-Markdown正文.md"/>
+        <toc-element topic="14-文章标题图.md"/>
+        <toc-element topic="15-评论.md"/>
+        <toc-element topic="16-评论的评论.md"/>
+        <toc-element topic="17-JWT身份验证.md"/>
+        <toc-element topic="18-用户管理.md"/>
+        <toc-element topic="19-前端开发准备.md"/>
+        <toc-element topic="20-文章列表.md"/>
+        <toc-element topic="21-文章详情.md"/>
+        <toc-element topic="22-翻页与监听.md"/>
+        <toc-element topic="23-搜索文章.md"/>
+        <toc-element topic="24-用户注册.md"/>
+        <toc-element topic="25-用户登录.md"/>
+        <toc-element topic="26-资料更新与异步.md"/>
+        <toc-element topic="27-资料删除与组件通信.md"/>
+        <toc-element topic="28-发表文章.md"/>
+        <toc-element topic="29-文章更新与删除.md"/>
+        <toc-element topic="30-标题图的提交.md"/>
+        <toc-element topic="31-发布评论.md"/>
+        <toc-element topic="32-组合式API.md"/>
     </toc-element>
 
 </instance-profile>
