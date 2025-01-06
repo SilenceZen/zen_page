@@ -3,7 +3,7 @@
         SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
 
 <instance-profile id="main"
-                  name="Instance Name"
+                  name="泽恩小站-教程区"
                   start-page="01.前言.md">
     <toc-element id="django_blog_tutorial_group" toc-title="Django博客教程 (From 杜佬)">
         <toc-element topic="01.前言.md"/>
