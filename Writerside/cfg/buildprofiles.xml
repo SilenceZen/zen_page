@@ -9,5 +9,7 @@
             <noindex-content>true</noindex-content>
         </variables>
     </build-profile>
-
+    <footer>
+        <link href="https://beian.miit.gov.cn/">闽ICP备2025085224号</link>
+    </footer>
 </buildprofiles>
